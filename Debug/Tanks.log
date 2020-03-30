@@ -1,0 +1,5 @@
+﻿  TanksGame.cpp
+C:\yuval\כיתה יג\תרגילי בסמח\Tanks\Tanks\TanksGame.cpp(67,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\yuval\כיתה יג\תרגילי בסמח\Tanks\Tanks\TanksGame.cpp(71,6): warning C4101: 'a': unreferenced local variable
+C:\yuval\כיתה יג\תרגילי בסמח\Tanks\Tanks\TanksGame.cpp(524,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Tanks.vcxproj -> C:\yuval\כיתה יג\תרגילי בסמח\Tanks\Debug\Tanks.exe
